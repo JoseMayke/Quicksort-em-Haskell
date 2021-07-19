@@ -22,7 +22,6 @@
 ### ⌨Exemplo de teste:
 
 <h1 align="center">
-</h1>
   <img src="https://github.com/JoseMayke/Quicksort-em-Haskell/blob/master/imagens/img1.png" />
 </h1>
 
