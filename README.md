@@ -1,6 +1,6 @@
 ## :man_technologist:Quicksort em Haskell.
 ---
-#### 📝Este programa em Haskell recebe uma lista com cada posição da lista contendo uma string e um valor inteiro, retornando a lista em ordem alfabética ordenada pela string. A meta foi usar o método de ordenação quicksort com listas compreensivas e funções de alta ordem do Haskell. As funções serão mostradas a seguir.
+#### 📝Este programa em Haskell recebe uma lista com cada posição da lista contendo uma string e um valor inteiro e retornando a lista em ordem alfabética, independente de maiúsculo ou minúsculo, ordenada pela string. A meta foi usar o método de ordenação quicksort com listas compreensivas e funções de alta ordem do Haskell. As funções serão mostradas a seguir.
 
 
 - Função **menor** que recebe a lista e valores de uma posição da lista e retorna uma lista com as posições que tenham a string menor que a string comparada.
