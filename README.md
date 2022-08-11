@@ -33,8 +33,8 @@ Você pode entrar em contato comigo através dessas contas:
 
 - 
     <a href="https://discord.gg/J4fHeQx">
-     <img align="left" alt="José Mayke  | Discord" width="26px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/discord.svg" />
+     <img align="left" alt="José Mayke  | Discord" src="https://github.com/JoseMayke/JoseMayke/blob/main/icones/Discord.svg" />
     </a>
     <a href="https://www.linkedin.com/in/jos%C3%A9-mayke-2714771b8/">
-     <img align="left" alt="José Mayke | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
-    </a>    
+     <img align="left" alt="José Mayke | Linkedin" src="https://github.com/JoseMayke/JoseMayke/blob/main/icones/Linkedin.svg" />
+    </a> 
